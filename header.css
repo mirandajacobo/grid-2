@@ -1,0 +1,26 @@
+header {
+    width: 100%;
+    height: 60;
+    border: 3px solid black;
+    border-bottom: 1px solid black
+    padding: 0px 60px;
+
+    display: flex;
+     justify-content:space-between;
+     align-items: center;
+
+}
+.Miranda {
+    width: 200px;
+    height: 45px;
+    font-size: 26px;
+    display: flex;
+    color:dimgray
+}
+
+.GridTemplate {
+    width: 200px;
+    height: 45px;
+    background-color: dimgray;
+
+}

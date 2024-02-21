@@ -1,0 +1,10 @@
+{
+    margin: 0;
+    padding: 0;
+    border-sizing: borde-box;
+}
+
+html { 
+    font-size: 10px;
+    font-family: "Quicksand", sans-serif;
+}
